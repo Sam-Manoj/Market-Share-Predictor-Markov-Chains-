@@ -123,5 +123,3 @@ python market_share_predictor.py
 * Style and color choices are optimized for a dark theme.
 
 ---
-
-If you'd like, I can also generate a PDF version, add more visualizations, or modularize the code!
