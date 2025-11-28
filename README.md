@@ -91,7 +91,10 @@ A custom dark theme is implemented using **ttk.Style()**.
 Below is a PNG preview of the interface:
 
 **PNG Screenshot:**
-(ss.png)
+
+![Screenshot](ss.png)
+
+> **Note:** If you want the README to display the image on GitHub or other platforms, place `ss.png` in the same repository/folder as the `README.md`. Alternatively, replace `ss.png` with a hosted image URL (for example from Imgur or GitHub) like `https://i.imgur.com/yourimage.png`.
 
 ---
 
